@@ -1,0 +1,13 @@
+.body {
+    background-color: #3288AF;
+}
+.rect-one {
+    color: white;
+}
+.head-one {
+    color: #e4eef3;
+    padding-left: 55px;
+    font-size: 35px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold 120px;
+}
